@@ -543,6 +543,22 @@
     ],
     "timestamp": "Nov/28/2020 13:39"
   },
+  "AC3251754": {
+    "contest_id": "abc110",
+    "language": "C++14 (GCC 5.4.1)",
+    "path": "atcoder/abc110/A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Maximize the Formula",
+    "problem_url": "https://atcoder.jp/contests/abc110/tasks/abc110_a",
+    "submission_id": "AC3251754",
+    "submission_url": "https://atcoder.jp/contests/abc110/submissions/3251754",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Sep/23/2018 14:10"
+  },
   "AC3253829": {
     "contest_id": "abc110",
     "language": "C++14 (GCC 5.4.1)",
