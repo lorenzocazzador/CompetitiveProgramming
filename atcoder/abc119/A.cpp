@@ -52,7 +52,7 @@ int main() {
     string s;
     cin >> s;
 
-    /*int anno = stoi(s.substr(0,4)), mese = stoi(s.substr(5, 2)), giorno = stoi(s.substr(8, 2));
+    int anno = stoi(s.substr(0,4)), mese = stoi(s.substr(5, 2)), giorno = stoi(s.substr(8, 2));
 
     if(anno != 2019){
         cout << (anno < 2019 ? "Heisei" : "TBD");
@@ -62,8 +62,6 @@ int main() {
         cout << (giorno <= 30 ? "Heisei" : "TBD");
     }
 
-    cout << "\n";*/
-
-    cout << ( s <= "2019/04/30" ? "Heisei\n" : "TBD\n");
+    cout << "\n";
     return 0;
 }
