@@ -543,6 +543,22 @@
     ],
     "timestamp": "Nov/28/2020 13:39"
   },
+  "AC4473548": {
+    "contest_id": "abc120",
+    "language": "C++14 (GCC 5.4.1)",
+    "path": "atcoder/abc120/A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Favorite Sound",
+    "problem_url": "https://atcoder.jp/contests/abc120/tasks/abc120_a",
+    "submission_id": "AC4473548",
+    "submission_url": "https://atcoder.jp/contests/abc120/submissions/4473548",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Mar/04/2019 22:04"
+  },
   "AC4545818": {
     "contest_id": "abc121",
     "language": "C++14 (GCC 5.4.1)",
