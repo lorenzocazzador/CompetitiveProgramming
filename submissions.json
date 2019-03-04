@@ -543,6 +543,22 @@
     ],
     "timestamp": "Nov/28/2020 13:39"
   },
+  "AC4473540": {
+    "contest_id": "abc120",
+    "language": "C++14 (GCC 5.4.1)",
+    "path": "atcoder/abc120/B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "K-th Common Divisor",
+    "problem_url": "https://atcoder.jp/contests/abc120/tasks/abc120_b",
+    "submission_id": "AC4473540",
+    "submission_url": "https://atcoder.jp/contests/abc120/submissions/4473540",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Mar/04/2019 22:01"
+  },
   "AC4473548": {
     "contest_id": "abc120",
     "language": "C++14 (GCC 5.4.1)",
