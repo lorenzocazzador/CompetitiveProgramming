@@ -543,6 +543,22 @@
     ],
     "timestamp": "Nov/28/2020 13:39"
   },
+  "AC4685585": {
+    "contest_id": "abc122",
+    "language": "C++14 (GCC 5.4.1)",
+    "path": "atcoder/abc122/A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Double Helix",
+    "problem_url": "https://atcoder.jp/contests/abc122/tasks/abc122_a",
+    "submission_id": "AC4685585",
+    "submission_url": "https://atcoder.jp/contests/abc122/submissions/4685585",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Mar/24/2019 13:01"
+  },
   "AC4687842": {
     "contest_id": "abc122",
     "language": "C++14 (GCC 5.4.1)",
