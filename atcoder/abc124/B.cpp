@@ -60,7 +60,6 @@ int main() {
         maxx = max(maxx, H[i]);
     }
 
-    cout << res << "\n";
-
+    OI(res);
     return 0;
 }
