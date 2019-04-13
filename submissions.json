@@ -543,6 +543,22 @@
     ],
     "timestamp": "Nov/28/2020 13:39"
   },
+  "AC4939083": {
+    "contest_id": "abc124",
+    "language": "C++14 (GCC 5.4.1)",
+    "path": "atcoder/abc124/A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Buttons",
+    "problem_url": "https://atcoder.jp/contests/abc124/tasks/abc124_a",
+    "submission_id": "AC4939083",
+    "submission_url": "https://atcoder.jp/contests/abc124/submissions/4939083",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Apr/13/2019 14:02"
+  },
   "AC4941876": {
     "contest_id": "abc124",
     "language": "C++14 (GCC 5.4.1)",
