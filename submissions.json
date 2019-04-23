@@ -118,6 +118,22 @@
     ],
     "timestamp": "Dec/04/2020 23:32"
   },
+  "CF53194630": {
+    "contest_id": 1155,
+    "language": "GNU C++14",
+    "path": "codeforces/1155/C.cpp",
+    "problem_index": "C",
+    "problem_name": "Alarm Clocks Everywhere",
+    "problem_url": "https://codeforces.com/contest/1155/problem/C",
+    "submission_id": "CF53194630",
+    "submission_url": "https://codeforces.com/contest/1155/submission/53194630",
+    "tags": [
+      "math",
+      "number theory",
+      "*1300"
+    ],
+    "timestamp": "Apr/23/2019 16:35"
+  },
   "CF53195419": {
     "contest_id": 1155,
     "language": "GNU C++14",
