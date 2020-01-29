@@ -12,6 +12,10 @@ int main() {
             v[s[i]-'a'].emplace_back(i);
         int i=0, res = 0;
         while(i<t.size()) {
+            if(v[t[i]-'a'].empty()) {
+                res = -1;
+                break;
+            }
             int tmp = -1;
             auto it = upper_bound(v[t[i]-'a'].begin(), v[t[i]-'a'].end(), tmp);
             while(it != v[t[i]-'a'].end()) {
@@ -22,10 +26,7 @@ int main() {
                 else 
                     break;
             }
-            if(tmp == -1) {
-                res = -1;
-                break;
-            } else res++;
+            res++;
         }
         cout << res << "\n";
     }
