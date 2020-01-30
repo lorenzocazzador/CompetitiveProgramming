@@ -9,17 +9,20 @@ int main() {
         cin >> N >> X;
         string s;
         cin >> s;
-        int diffTot = 0;
-        for(char c : s) 
-            diffTot += (c == '0' ? 1 : -1);
-        int diffAct = 0, res = (X == 0) ? 1 : 0;
+        int zT = 0, oT = 0;
         for(char c : s) {
-            diffAct += (c == '0' ? 1 : -1);
+            zT += (c == '0');
+            oT += (c == '1');
+        }
+        int zA = 0, oA = 0, res = (X == 0) ? 1 : 0;
+        for(char c : s) {
+            zA += (c == '0');
+            oA += (c == '1');
 
-            if(diffAct == X && diffTot == 0) {
+            if(zA - oA == X && zT == oT) {
                 res = -1;
                 break;
-            } else if( diffTot != 0 && (X-diffAct) % diffTot == 0 && (X-diffAct) / diffTot >= 0)
+            } else if( zT != oT && (X-(zA-oA)) % (zT-oT) == 0 && (X-(zA-oA)) / (zT-oT) >= 0)
                 res++;
         }
         cout << res << "\n";
