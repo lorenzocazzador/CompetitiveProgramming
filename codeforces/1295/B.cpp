@@ -12,7 +12,7 @@ int main() {
         int diffTot = 0;
         for(char c : s) 
             diffTot += (c == '0' ? 1 : -1);
-        int diffAct = 0, res = X == 0;
+        int diffAct = 0, res = (X == 0) ? 1 : 0;
         for(char c : s) {
             diffAct += (c == '0' ? 1 : -1);
 
