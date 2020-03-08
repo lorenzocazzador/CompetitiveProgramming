@@ -1,8 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-int c(vector<int> & v, int x) {
-    int res = 0;
+long long c(vector<int> & v, int x) {
+    long long res = 0;
     for(int & i : v) {
         if(i >= x)
             res += i - x + 1;
