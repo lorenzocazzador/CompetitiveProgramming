@@ -1,4 +1,20 @@
 {
+  "AC10928614": {
+    "contest_id": "panasonic2020",
+    "language": "C++14 (GCC 5.4.1)",
+    "path": "atcoder/panasonic2020/B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Bishop",
+    "problem_url": "https://atcoder.jp/contests/panasonic2020/tasks/panasonic2020_b",
+    "submission_id": "AC10928614",
+    "submission_url": "https://atcoder.jp/contests/panasonic2020/submissions/10928614",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Mar/15/2020 22:27"
+  },
   "AC10928621": {
     "contest_id": "panasonic2020",
     "language": "C++14 (GCC 5.4.1)",
