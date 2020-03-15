@@ -1,4 +1,20 @@
 {
+  "AC10917395": {
+    "contest_id": "panasonic2020",
+    "language": "C++14 (GCC 5.4.1)",
+    "path": "atcoder/panasonic2020/C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Sqrt Inequality",
+    "problem_url": "https://atcoder.jp/contests/panasonic2020/tasks/panasonic2020_c",
+    "submission_id": "AC10917395",
+    "submission_url": "https://atcoder.jp/contests/panasonic2020/submissions/10917395",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Mar/15/2020 11:23"
+  },
   "AC10928614": {
     "contest_id": "panasonic2020",
     "language": "C++14 (GCC 5.4.1)",
