@@ -22,6 +22,10 @@ int main() {
     while(T--) {
         string s;
         cin >> s;
+        if(isPal(s)) {
+            cout << s << "\n";
+            continue;
+        }
         int N = (int)s.size();
         vector<pii> pals;
         // find odd palindromes
@@ -42,6 +46,7 @@ int main() {
         }
         string res = "";
         for(pii & p : pals) {
+            //cout << p.F << " " << p.S << "\n";
             int i = p.F, f = N-(p.F+p.S);
             if(i == 0 || f == 0) {
                 string t = s.substr(p.F, p.S);
