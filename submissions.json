@@ -118,6 +118,21 @@
     ],
     "timestamp": "Dec/04/2020 23:32"
   },
+  "CF85320502": {
+    "contest_id": 1374,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/1374/A.cpp",
+    "problem_index": "A",
+    "problem_name": "Required Remainder",
+    "problem_url": "https://codeforces.com/contest/1374/problem/A",
+    "submission_id": "CF85320502",
+    "submission_url": "https://codeforces.com/contest/1374/submission/85320502",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jun/28/2020 16:57"
+  },
   "CF85335677": {
     "contest_id": 1374,
     "language": "GNU C++17 (64)",
