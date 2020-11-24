@@ -11,11 +11,11 @@ typedef vector<pii> vii;
 #define db(x) cout << #x << ": " << x << "\n";
 
 void solve() {
-    int N;
-    cin >> N;
-    for (int i = 2; i <= N; i++)
-        cout << i << ' ';
-    cout << 1 << '\n';
+	int N;
+	cin >> N;
+	for (int i = 2; i <= N; i++)
+		cout << i << ' ';
+	cout << 1 << '\n';
 }
 
 int main() {
